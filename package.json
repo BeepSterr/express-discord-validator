@@ -6,8 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "BeepSterr",
   "license": "MIT",
+  "homepage": "https://github.com/beepsdev/express-discord-validator",
+  "bugs": "https://github.com/beepsdev/express-discord-validator/issues",
   "devDependencies": {
     "express": "^4.17.2"
   },
