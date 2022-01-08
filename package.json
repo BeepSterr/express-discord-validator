@@ -1,0 +1,17 @@
+{
+  "name": "express-discord-validator",
+  "version": "0.0.1",
+  "description": "Express middleware for validating discord interactions requests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.17.2"
+  },
+  "dependencies": {
+    "tweetnacl": "^1.0.3"
+  }
+}
